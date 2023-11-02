@@ -5,6 +5,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Francismiko;+Welcome+to+My+Profile)](https://git.io/typing-svg)
 
+### *如何联系我👉  [✨Resume✨](https://r.easycv.cn/francis)*
 # 🚀 Tech Stack
 ### Languages
 <span>
@@ -77,6 +78,6 @@
   <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />
 </span>
 
-## <center>如何联系我👉  <a href="https://r.easycv.cn/francis">✨Resume✨</a></center>
 
+##
 ![Francismiko's github stats](https://github-readme-stats-francismiko.vercel.app/api?username=Francismiko&show_icons=true&theme=radical&include_all_commits=true)  ![Francismiko's github stats](https://github-readme-stats-francismiko.vercel.app/api/top-langs/?username=Francismiko&theme=radical&layout=compact)
